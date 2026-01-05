@@ -1,0 +1,15 @@
+#game-container {
+    margin: 1em auto;
+    width: 380px;
+}
+#displayed-word {
+    font-size: 1.6em;
+    margin: auto;
+    width: 90%;
+}
+#input-box {
+    height: 40;
+    margin: 12;
+    width: 1;
+    padding: 10;
+}
